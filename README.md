@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End Development<br>🌱 I’m currently learning React JS<br><br>📫 How to reach me:  mmubashirmemon@gmail.com<br>😄 Pronouns: He/Him
+🔭 I’m an AI Engineer, currently pursuing my Master's of Science in AI.<br>🌱 I’m currently learning Agentic AI<br><br>📫 How to reach me:  mmubashirmemon@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
