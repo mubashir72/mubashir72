@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Mubashir 👋
 
-### AI Engineer | MS Artificial Intelligence @ FAST-NUCES | Agentic AI & LLM Systems
+### AI/ML Engineer | MS Artificial Intelligence @ FAST-NUCES | Agentic AI & LLM Systems
 
 I'm an AI Engineer and MS Artificial Intelligence student at **FAST-NUCES, Islamabad**, passionate about building reliable AI-powered applications, intelligent agents, and backend systems.
 
